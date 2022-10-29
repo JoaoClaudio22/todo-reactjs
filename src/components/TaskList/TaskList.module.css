@@ -1,0 +1,29 @@
+.tasks{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid rgb(214, 214, 214);
+    width: 500px;
+}
+
+.tasks h3{
+    margin-bottom: 1.5rem;
+}
+
+
+.actions{
+    width: 3rem;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.actions i{
+   cursor: pointer;
+   transition: 0.2s;
+}
+
+.actions i:hover{
+    color: rgb(82, 82, 82) ;
+ }

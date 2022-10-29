@@ -1,0 +1,27 @@
+.footer{
+    background-color: #386dbd;
+    color: #fff;
+    text-align: center;
+    padding: 5em;
+
+}
+
+.footer span{
+    font-weight: bold;
+}
+
+.footer a{
+    margin-left: 0.5;
+    text-decoration: none;
+    color: #fff;
+    transition: 0.1s;
+}
+
+.footer a:hover{
+    text-decoration: none;
+    color: rgb(185, 185, 185);
+}
+
+.footer p{
+    margin-bottom: 1rem;
+}
